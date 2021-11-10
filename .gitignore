@@ -4,3 +4,6 @@
 /数据sample
 /数据说明.xlsx
 /算法挑战赛时效客诉赋能文档V1.0.docx
+/data_clean
+*.p
+/data_clean/*.p
