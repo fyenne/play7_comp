@@ -7,3 +7,4 @@
 /data_clean
 *.p
 /data_clean/*.p
+/testset/
